@@ -8,8 +8,7 @@ int main()
 	int  i = 0, n;
 	int num[N] = { 0 };
 	char c;
-	do
-	{
+	do{
 		scanf("%d%c", &num[i], &c);
 		i++;
 	} while (c !='\n');
