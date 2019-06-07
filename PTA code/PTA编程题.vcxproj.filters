@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="微博点赞.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="支票面额 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数多项式求值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="圆形体体积计算器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="近似求PI .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求π.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计学生成绩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="害死人不偿命的(3n+1)猜想.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1002 写出这个数 （20 分）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="倒序输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公约数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="某区间内素数和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="交换最小值和最大值 （15 分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简化的插入排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 输出数组元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2 使用函数的选择法排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3 查找数组元素最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 找出不是两个数组共有的元素 （20 分）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 求一批整数中出现最多的个位数字 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断上三角矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 求矩阵各行元素之和 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 二维数组元素变化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5 打印杨辉三角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6 找鞍点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2 函数实现字符串逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找指定字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6 字符串替换 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="重点-报数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="重点-螺旋方阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="易错—（判断是否含有小数数部分）机器人过桥.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="复杂题 —7-7 出生年 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计学生成绩2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="习题3-5 三角形判断 （15 分）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求给定精度简单交错数列部分和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求e的近似值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 N个数求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 A-B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8 查验身份证 （15 分）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="全能球员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 发红包.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 素数对猜想 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 黑洞数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5龟兔赛跑.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6 切分表达式——写个tokenizer吧.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7 环形加密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-9 逻辑判断-谁做了好事!%28难点逻辑判断%29 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-12 jmu-c-二进制转10进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-10人员派遣问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猴子选大王.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 到底有多二 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 大笨钟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 谁先倒 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4帅到没朋友.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 验证“哥德巴赫猜想.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 梅森数 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4最简分式题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5编程打印空心字母菱形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-9单词长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1正整数A+B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3出租房子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6一帮一.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7到底是不是太胖了.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-4 稳赢 （.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-7 装睡 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-8 矩阵A乘以B .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7 反向数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 求特殊方程的正整数解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 求n以内最大的k个素数以及它们的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 方阵循环右移.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 落单的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-11 jmu-c-十进制转16进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1藏尾诗.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-11 二进制的前导的零 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-12 jmu-c-大数加法 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8 Left-pad.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 BCD解密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 求平方与倒数序列的部分和 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 抓老鼠啊~亏了还是赚了？.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 删除重复字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5 装箱问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6 IP地址转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7 大炮打蚊子 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8 二分法求多项式单根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源7-10 二分查找法之过程cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-11 选择法排序之过程 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-12 冒泡法排序之过程 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7 删除字符串中的子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8 说反话-加强版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-9 数组循环左移 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-10 最长对称子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 超市贴花.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5 N阶楼梯上楼问题 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6 掉入陷阱的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7 算菜价.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 求符合给定条件的整数集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 最佳情侣身高差 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3装睡.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 狐狸和兔子 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1 长整数转化成16进制字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 找出不是两个数组共有的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 倒数第N个字符串 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 九宫格输入法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 自守数（乘法模拟） .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-13 单身狗.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-12 小字辈 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6 天梯赛座位分配 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8 输出GPLT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="qsort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 神奇字符串 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1 atof函数的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7 英文单词排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8 古风排版 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
